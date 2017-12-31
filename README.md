@@ -172,36 +172,6 @@ Footer onClick - Inform the listener in .setOnClickFooter(onClickFooter) method 
         }
     };
 ```
-
-<br>
-<b>Your application uses this library? You can promote it here! Just send your application that will be happy to disclose..</b> <br>
-
-#Developed By<br>
-Name: Rudson Lima<br> 
-E-mail: rudsonlive@gmail.com<br>
-Subject: Navigation Drawer - Material Design
-<br>
-
-<b>When using the design please remove all images and strings referring to Live-O. Thank you: D <br></b>
-
-#License
-```
-  Copyright 2015 Rudson Lima
- 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
- 
-      http://www.apache.org/licenses/LICENSE-2.0
- 
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
- 
-````
-
 <br>
 reference: 
 <a href="http://www.google.com/design/spec/patterns/navigation-drawer.html" target="_blank">NavigationDrawer</a>
