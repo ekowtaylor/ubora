@@ -173,16 +173,6 @@ Footer onClick - Inform the listener in .setOnClickFooter(onClickFooter) method 
     };
 ```
 
-<img src="https://raw.githubusercontent.com/rudsonlive/NavigationDrawer-MaterialDesign/master/Screenshot/Screenshot_01.png">
-<img src="https://raw.githubusercontent.com/rudsonlive/NavigationDrawer-MaterialDesign/master/Screenshot/Screenshot_02.png"> 
-
-###<b>NavigationActionBarLiveo</b><br>
-To use extends the NavigationActionBarLiveo <br>
-<img src="https://raw.githubusercontent.com/rudsonlive/NavigationDrawer-MaterialDesign/master/Screenshot/Screenshot_03.png">
-
-To remove the header, use the method ".removeHeader()"<br>
-<img src="https://raw.githubusercontent.com/rudsonlive/NavigationDrawer-MaterialDesign/master/Screenshot/Screenshot_04.png">
-
 <br>
 <b>Your application uses this library? You can promote it here! Just send your application that will be happy to disclose..</b> <br>
 
