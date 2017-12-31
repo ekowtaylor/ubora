@@ -172,6 +172,3 @@ Footer onClick - Inform the listener in .setOnClickFooter(onClickFooter) method 
         }
     };
 ```
-<br>
-reference: 
-<a href="http://www.google.com/design/spec/patterns/navigation-drawer.html" target="_blank">NavigationDrawer</a>
