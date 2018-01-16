@@ -2,25 +2,9 @@
 
 It requires 14+ API and android support v7  23.2.1 (AppCompatActivity + Toolbar)
 
-###Special thanks :D
-Jacob A. Moura for all his ideas, dedication, time and help.<br>
-You are part of this project.
 
-###Sample Application
-
-<a href="https://play.google.com/store/apps/details?id=br.liveo.navigationliveo" target="_blank">
-  <img alt="Android app on Google Play"
-       src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationDrawer--MaterialDesign-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1398)
-
-How to use? Very simple! : D
-
-#If you want, check versions before
-
-<b>Change Log</b><br>
-<a href="https://github.com/rudsonlive/NavigationDrawer-MaterialDesign/blob/master/CHANGELOG.md" target="_blank">Log file</a>
+<b>Originally from</b><br>
+<a href="https://github.com/rudsonlive/NavigationDrawer-MaterialDesign" target="_blank">RudsonLive</a>
 
 #How to add to your project
 
